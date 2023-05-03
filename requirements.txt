@@ -1,0 +1,6 @@
+%%file requirements.txt
+numpy
+pandas
+matplotlib
+plotly
+viola
